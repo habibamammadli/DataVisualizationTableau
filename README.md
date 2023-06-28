@@ -1,4 +1,4 @@
-# Data Vizualization
+# Data Visualization
 ## 1) Tableau HR Dashboard 
 ### About Datasets:
 This HR dashboard utilizes three main datasets: Performance Rating, Employee Data, and Education Level. These datasets are essential for generating insights and visualizations related to employee performance and satisfaction.
